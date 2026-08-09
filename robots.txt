@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://magok-room-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://magok-room-note.banpo-massage-review.xyz/sitemap-pages.xml
